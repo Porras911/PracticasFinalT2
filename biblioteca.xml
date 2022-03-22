@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="biblioteca.css"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+  <libro>
+    <foto>senda.webp</foto>
+    <sexo>hembra</sexo>
+    <titulo>Senda dormida</titulo>    
+    <autor>MilaM Kundera</autor>
+  <fechaPublicacion año="1975" /> 
+  </libro>
+  <libro>
+    <foto>miki.webp</foto>
+    <sexo>macho</sexo>
+    <titulo>miki acostado</titulo>
+    <autor fechaNacimiento="28/03/1936"> Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <sexo>hembra</sexo>
+    <titulo>Summer y su mirada</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
