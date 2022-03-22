@@ -1,6 +1,6 @@
 body {
     background-color: 	rgb(255, 228, 181);
-    display: block;
+    
   }
   h1 {
     display: none;
@@ -63,17 +63,16 @@ body {
     h1 {
       display: flex;
     }
-    p {
+   
+  
+   #voltereta {
       display: none;
+    }
+    #porta{
+      display:none;
     }
   
-    div {
-      display: none;
-    }
-  
-    h2 {
-      display: none;
-    }
+    
   
    
   }
